@@ -1,9 +1,6 @@
-# R at EGU2019
+# R at EGU2019  <img src="r_at_egu_logo.png" align="right" />
 
-# Saddleworth Research Compendium <img src="doc/fig/logo.png" align="right" />
+*This repository serves as a quick reference to all short courses related to or aimed at teaching R.*
 
----
+## Courses
 
-This repository serves as a quick reference to all short courses related to or aimed at teaching R
-
----
