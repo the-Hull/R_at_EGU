@@ -4,3 +4,9 @@
 
 ## Courses
 
+### Using R in Hydrology (SC1.44/HS12.5)
+Conveners: Alexander Hurley, Lucy Barker, Louise Slater, Guillaume Thirel, Claudia Vitolo
+
+Course description: [Click here](updated asap)
+
+### 
